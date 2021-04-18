@@ -298,3 +298,6 @@ intuitive ways to explore large multi-omic datasets. Authors: Ariane Mora, Rowla
 - Oral Presentation at E-Research Australasia, (Oct 2017)
 - Oral Presentation at Joining the Dots Symposium (Aug 2017)
 
+
+
+* Figures contain images generated using BioRender
