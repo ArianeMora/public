@@ -140,8 +140,8 @@ DNA methylation. Note the cutoff values are all adjustable. Future works include
 but on methylation assigned in UTR, on exons, etc.
 
 Any tool can be used to produce the DMC's and DMR's, two such tools are
-<MethylKit https://bioconductor.org/packages/release/bioc/html/methylKit.html>_ and
-<MethylSig https://pubmed.ncbi.nlm.nih.gov/24836530/>_ many others exist.
+`MethylKit <https://bioconductor.org/packages/release/bioc/html/methylKit.html>`_ and
+`MethylSig <https://pubmed.ncbi.nlm.nih.gov/24836530/>`_ many others exist.
 
 sci-epi2gene
 ------------
