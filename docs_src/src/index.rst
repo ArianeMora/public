@@ -11,7 +11,7 @@ Academic and Work Experience
 **Research Assistant** | Aug 2018 - Aug 2019 | *University of Queensland - SCMB, Brisbane*
      Worked with collaborators on an ancestral sequence reconstruction tool (pipeline development and data processing). System administration tasks such as server management.
 
-**Software Engineer** | Jan 2018 - Aug 2018 |  *intelliHR, Brisbane*
+**Software Engineer** | Jan - Aug 2018 |  *intelliHR, Brisbane*
     Produced proof of concept machine learning model to predict attrition. Worked with designers to improve the user experience.
 
 **Research Scholar** | Winter 2017 & Summer 2018 | *University of Queensland - SCMB, Brisbane*
